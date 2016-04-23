@@ -1,0 +1,4 @@
+syntax: glob
+APlusMalware.FceInventorySortPlugin/bin/
+APlusMalware.FceInventorySortPlugin/obj/
+APlusMalware.FceInventorySortPlugin/dist
